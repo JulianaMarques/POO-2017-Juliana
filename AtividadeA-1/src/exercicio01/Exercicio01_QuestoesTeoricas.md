@@ -18,9 +18,9 @@ Etinia   |   Censo / Estatística   | Sistema Bancário
 
 **04.**
 
-	**a)** Não, pois a pessoa é quem possui e manipula a conta.
+	a) Não, pois a pessoa é quem possui e manipula a conta.
 
-	**b)** Sim. Um vetor
+	b) Sim. Um vetor
 
 **05.** Aluno, professor, disciplinas, curso, coordenação.
 
