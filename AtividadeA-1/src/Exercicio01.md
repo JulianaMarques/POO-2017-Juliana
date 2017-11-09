@@ -5,15 +5,16 @@
 **02.** Os atributos são as características de um objeto e os métodos são os seus comportamentos. Ex.: _Atributos:_ nome, cor; _Métodos:_ falar, andar.
 
 **03.** 
-| Atributo | Sistema em que é importante | Sistema em que não é importante 
-| -------- | --------------------------- | ------------------------------- 
-| Peso   | Sistema de Saúde | Sistema Bancário
-| Tipo de CNH  | Sistema de Transporte | Sistema de Gestão acadêmica
-| Tipo Sanguíneo | Sistema de Saúde | Sistema Bancário
-| Habilidade destra | --- | Sistema de Gestão acadêmica
-| Percentual de gordura | Sistema de Saúde | Sistema Bancário
-| Saldo em conta   | Sistema Bancário | Sistema de Saúde
-| Etinia   | Estatística | Sistema Bancário
+
+Atributo    |   Sistema em que é importante   | Sistema em que não é importante   |
+--------|------|------
+Peso    |   Sistema de Saúde   | Sistema Bancário
+Tipo de CNH     |   Sistema de Transporte   | Sistema de Gestão Acadêmica
+Tipo sanguíneo   |   Sistema de Saúde   | Sistema Bancário
+Habilidade destra   |      | Sistema de Gestão Acadêmica
+Percentual de gordura   |   Sistema de Saúde   | Sistema Bancário 
+Saldo em conta   |   Sistema Bancário   | Sistema de Saúde 
+Etinia   |   Censo / Estatística   | Sistema Bancário
 
 **04.**
 
