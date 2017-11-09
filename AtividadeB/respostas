@@ -1,0 +1,7 @@
+1.
+    Na programaao orientada a objetos, tudo é baseado em objetos que interagem entre si e possuem atributos e métodos. 
+    Uma classe é usada para modelar um objeto, nela são definidos os métodos e atributos de um objeto. Já os objetos são as instancias de uma classe, ou seja, são definidos com base no modelo definido pela classe.
+    Uma variável faz referência a um objeto.
+
+6.
+   Um sistema de controle de versão cria um repositório em um servidor local e um espelho em um servidor em nuvem, onde é possível sincronizar o servidor local com o em nuvem e vice-versa, torna mais fácil o trabalho de vários programadores em um mesmo projeto.   
