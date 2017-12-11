@@ -1,6 +1,6 @@
 # Apostila Caelum FJ11, Cap. 09 - Classes Abstratas (Respostas)
 
-**01.** _Conta_ vai servir de modelo para as classes _Conta Corrente_ e _Conta Poupança_, em nenhum momento ela vai ser instanciada, por isso ela é é uma boa candidata para ser uma classe abstrata.
+**01.** _Conta_ vai servir de modelo para as classes _Conta Corrente_ e _Conta Poupança_, ela não precisa ser instanciada, por isso ela é é uma boa candidata para ser uma classe abstrata.
 
 **03.** A classe _ContaPoupança_ terá que reescrever o método para poder herdá-lo da classe mãe.
 
