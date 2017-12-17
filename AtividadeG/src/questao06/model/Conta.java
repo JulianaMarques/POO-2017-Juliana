@@ -22,8 +22,8 @@ public abstract class Conta {
 		return this.numero;
 	}
 	
-	public Pessoa getTitular() {
-		return this.titular;
+	public String getTitular() {
+		return this.titular.getNome();
 	}
 	
 	public String toString() {
